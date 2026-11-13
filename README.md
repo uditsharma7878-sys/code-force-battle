@@ -1,4 +1,4 @@
-# CF Battle Grid
+# Code-Force  Battle 
 
 > A real-time multiplayer coding competition platform inspired by Codeforces! Gather your friends, divide into teams, and battle it out by solving algorithmic problems strategically placed on a grid.
 
